@@ -10,3 +10,5 @@ class Calculator
     nums.inject(:*)
   end
 end
+
+Addition
